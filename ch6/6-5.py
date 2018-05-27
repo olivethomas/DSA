@@ -1,3 +1,5 @@
+#Delete duplicates from a sorted array
+
 a=map(int,raw_input().split())
 n=len(a)
 f=0
